@@ -1,0 +1,88 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    font-family: sans-serif;
+
+}
+body{
+
+        background: linear-gradient(rgb(32, 17, 1),rgb(53, 29, 3));
+        height: 100vh;
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+}
+.container{
+    width: 80%;
+    height: 80%;
+    background-color:rgba(255, 255,255, 0.1) ;
+border-radius: 20px;
+overflow: hidden;
+}
+.l1{
+    color: rgb(172, 149, 136);
+    text-align: center;
+    margin: 50px;
+    font-weight: 700;
+    font-size: 80px;
+    position: absolute;
+    top: 9px;
+    right: 61%
+    ;
+    border-bottom:  2px solid rgb(172, 149, 136);
+}
+.pizza{
+    background: linear-gradient(rgb(32, 17, 1),rgb(53, 29, 3));
+    margin: 20px;
+    color: #fff;
+    width: 150px;
+    border-radius: 20px;
+    text-align: center;
+    position: absolute;
+    top: 160px;
+    right: 66%;
+
+}
+.pizza p{
+    margin: 10px 10px;
+    border-radius:20px ;
+    color:#fff ;
+    background-color: rgb(172, 149, 136);
+    padding:4px;
+ 
+    
+
+}
+.l2{
+    color: rgb(172, 149, 136);
+    text-align: center;
+    margin: 50px;
+    font-weight: 700;
+    font-size: 80px;
+    position: absolute;
+    top: 9px;
+    right: 14%;
+    border-bottom:  2px solid rgb(172, 149, 136);
+
+}
+.crepes{
+    background: linear-gradient(rgb(32, 17, 1),rgb(53, 29, 3));
+    margin: 20px;
+    color: #fff;
+    width: 150px;
+    border-radius: 20px;
+    text-align: center;
+    position: absolute;
+    top: 160px;
+    right: 27%;
+
+}
+.crepes p{
+
+    margin: 10px 10px;
+    border-radius:20px ;
+    color:#fff ;
+    background-color: rgb(172, 149, 136);
+    padding:4px;
+}
